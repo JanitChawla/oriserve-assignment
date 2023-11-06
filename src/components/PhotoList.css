@@ -1,0 +1,24 @@
+.PhotoListContainer {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ModalImageParent {
+  display: flex;
+  justify-content: center;
+}
+
+.Spinner {
+  margin-top: 400px;
+}
+
+.PhotoParent {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.imageNotFound {
+  margin-top: 110px;
+}

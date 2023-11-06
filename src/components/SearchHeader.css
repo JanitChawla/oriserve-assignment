@@ -1,0 +1,30 @@
+@media screen and (min-width: 480px) {
+  .AutoComplete {
+    width: 430px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .AutoComplete {
+    width: 80%;
+  }
+}
+
+.Header {
+  display: flex;
+  background-color: black;
+  height: 100px;
+  color: white;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.Title {
+  font-size: 25px;
+  margin: 0;
+  font-weight: 700;
+}
